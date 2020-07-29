@@ -1,0 +1,3 @@
+﻿  depositos.cpp
+C:\Users\PC\source\repos\depositos\depositos\depositos.cpp(238,12): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+  depositos.vcxproj -> C:\Users\PC\source\repos\depositos\Debug\depositos.exe
